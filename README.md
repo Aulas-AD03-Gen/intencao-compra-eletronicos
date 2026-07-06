@@ -8,39 +8,39 @@ A análise foi desenhada seguindo o ciclo de vida completo de análise de dados 
 ---
 
 ## 🛠️ Especificações Técnicas e Ferramentas
-* [cite_start]**Fonte de Dados:** Conjunto de dados público extraído do Kaggle (*Predict Consumer Electronics Sales Dataset*).
-* [cite_start]**Ambiente de Desenvolvimento & Limpeza:** Microsoft Excel (Power Query e Tabelas Dinâmicas).
-* [cite_start]**Técnicas de IA Aplicadas:** Extração de palavras-chave, mapas mentais e análise de sentimentos para automação de tarefas exploratórias.
-* [cite_start]**Custo:** R$ 0,00 (Utilização de fontes de dados abertas e gratuitas).
+**Fonte de Dados:** Conjunto de dados público extraído do Kaggle (*Predict Consumer Electronics Sales Dataset*).
+**Ambiente de Desenvolvimento & Limpeza:** Microsoft Excel (Power Query e Tabelas Dinâmicas).
+**Técnicas de IA Aplicadas:** Extração de palavras-chave, mapas mentais e análise de sentimentos para automação de tarefas exploratórias.
+**Custo:** R$ 0,00 (Utilização de fontes de dados abertas e gratuitas).
 
 ---
 
 ## 🚀 Ciclo de Vida do Projeto
 
 ### 1. Planejamento & Conceito
-* [cite_start]Download e estruturação da base de dados bruta do Kaggle.
-* [cite_start]Mapeamento dos requisitos de análise (colunas necessárias, tipos de dados e categorização).
-* [cite_start]Planejamento de recursos visuais focados em tendências (ex: gráficos de barras para o topo de vendas).
+Download e estruturação da base de dados bruta do Kaggle.
+Mapeamento dos requisitos de análise (colunas necessárias, tipos de dados e categorização).
+Planejamento de recursos visuais focados em tendências (ex: gráficos de barras para o topo de vendas).
 
 ### 2. Análise & Implementação
-* [cite_start]Importação e limpeza de inconsistências diretamente no Excel.
-* [cite_start]Construção de tabelas dinâmicas e gráficos interativos.
-* [cite_start]Criação de Dashboards para consolidação das métricas.
+Importação e limpeza de inconsistências diretamente no Excel.
+Construção de tabelas dinâmicas e gráficos interativos.
+Criação de Dashboards para consolidação das métricas.
 
 ### 3. Testes, Revisão e Manutenção
-* [cite_start]Validação da precisão dos resultados obtidos.
-* [cite_start]Alinhamentos constantes e apresentação dos resultados preliminares ao **Scrum Master** para evitar distorções no desenvolvimento.
-* [cite_start]Atualização contínua dos painéis e disponibilização desta documentação.
+Validação da precisão dos resultados obtidos.
+Alinhamentos constantes e apresentação dos resultados preliminares ao **Scrum Master** para evitar distorções no desenvolvimento.
+Atualização contínua dos painéis e disponibilização desta documentação.
 
 ---
 
 ## 🎯 Metas e Entregáveis
-- [ ] [cite_start]Coleta, limpeza e estruturação da base de dados.
-- [ ] [cite_start]Exploração de padrões e comportamento de consumo.
-- [ ] [cite_start]Criação de Dashboards interativos no Excel.
-- [ ] [cite_start]Apresentação das métricas finais e insights estratégicos ao **Product Owner**.
+- [ ] Coleta, limpeza e estruturação da base de dados.
+- [ ] Exploração de padrões e comportamento de consumo.
+- [ ] Criação de Dashboards interativos no Excel.
+- [ ] Apresentação das métricas finais e insights estratégicos ao **Product Owner**.
 
 ---
 
 ## 📅 Prazo de Conclusão
-* [cite_start]**Data de Entrega:** Sexta-feira, 10 de Julho de 2026.
+**Data de Entrega:** Sexta-feira, 10 de Julho de 2026.
