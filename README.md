@@ -1,9 +1,9 @@
 # 📱 Intenção de Compra e Satisfação de Produtos Eletrônicos 💻
 
 ## 📋 Sobre o Projeto
-[cite_start]Este projeto tem como objetivo principal identificar quais fatores (como idade, gênero, marca, preço e frequência) mais influenciam a satisfação do cliente e a intenção final de compra no setor de eletrônicos. 
+Este projeto tem como objetivo principal identificar quais fatores (como idade, gênero, marca, preço e frequência) mais influenciam a satisfação do cliente e a intenção final de compra no setor de eletrônicos. 
 
-[cite_start]A análise foi desenhada seguindo o ciclo de vida completo de análise de dados e gerenciada através do framework **SCRUM**, garantindo entregas alinhadas com as expectativas do Product Owner e do Scrum Master.
+A análise foi desenhada seguindo o ciclo de vida completo de análise de dados e gerenciada através do framework **SCRUM**, garantindo entregas alinhadas com as expectativas do Product Owner e do Scrum Master.
 
 ---
 
